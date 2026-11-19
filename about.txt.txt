@@ -14,3 +14,14 @@ My Skills:
 - Basic programming
 - HTML and CSS
 - Problem solving
+
+skills
+
+-basic computer programming
+-HTML and CSS
+-Basic Knowledge of C#
+
+Goals
+-improve my programming skills
+-learn more about web development
+-Become a successful It Professional
