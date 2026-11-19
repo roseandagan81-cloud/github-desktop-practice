@@ -4,3 +4,13 @@ School:AsianCollege
 
 About Me:
 i am a college student who enjoys learning about technology and programming.
+
+My Hobbies:
+- Playing online games
+- Listening to music
+- Watching movies
+
+My Skills:
+- Basic programming
+- HTML and CSS
+- Problem solving
